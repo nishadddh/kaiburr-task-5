@@ -1,0 +1,5 @@
+The consumer complaints dataset is too large to upload to GitHub. To keep the repository manageable, the large CSV file has been excluded.
+
+The .gitignore file ensures that the original dataset (complaints.csv) is ignored.
+
+All code, scripts, and screenshots are included in the repo.
